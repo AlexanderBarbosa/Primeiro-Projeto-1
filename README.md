@@ -1,0 +1,1 @@
+O objetivo deste projeto é relacionar e informar as TAGS mais utilizadas em HTML, mostrar as suas funcionalidades e exibir em alguns exemplos a utilização dessas TAGS e seus respectivos efeitos no desenvolvimento de uma página WEB.
